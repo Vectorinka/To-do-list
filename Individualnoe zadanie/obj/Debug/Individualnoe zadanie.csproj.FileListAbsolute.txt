@@ -1,0 +1,12 @@
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\bin\Debug\Individualnoe zadanie.exe.config
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\bin\Debug\Individualnoe zadanie.exe
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\bin\Debug\Individualnoe zadanie.pdb
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe zadanie.csproj.AssemblyReference.cache
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe zadanie.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe_zadanie.Form1.resources
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe_zadanie.Properties.Resources.resources
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe zadanie.csproj.GenerateResource.cache
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe zadanie.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe zadanie.exe
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe zadanie.pdb
+D:\Visual Studio\Individualnoe zadanie\Individualnoe zadanie\obj\Debug\Individualnoe_zadanie.to_doList.resources
